@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "productReleaseVersion": "0.1.5",
+  "releaseDate": "2026-10-14",
+  "releaseKind": "WINDOWS_DESKTOP_BETA_DEPLOYED_PROJECT_CLOSEOUT",
+  "tag": "v0.1.5",
+  "apiSourceCommit": "7530d57ecdb4d544019f1946ed9a391611ca6d73",
+  "webSourceCommit": "ee1f6859dc0096d87a5715c0fcb6d91b1f08b3f4",
+  "deliveryCommit": "a50f53f7de29a2d3926ad1cafd85d5831f2964d6",
+  "windowsInstaller": {
+    "version": "0.1.3",
+    "reusedWithoutRenaming": true,
+    "newInstallerBuilt": false,
+    "file": "Zhenji-0.1.3-x64-Setup.exe",
+    "bytes": 103612477,
+    "sha256": "45afae6433cb5892545afefcde340766d90da44f7216c0539cc0f69659ef78c1",
+    "sourceTag": "desktop-v0.1.3-00367ee991ad",
+    "downloadUrl": "https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/desktop-v0.1.3-00367ee991ad/Zhenji-0.1.3-x64-Setup.exe",
+    "signed": false,
+    "nativeAutoUpdaterEnabled": false
+  },
+  "newDeploymentPerformedByThisPublication": false,
+  "p1ProjectIncluded": true,
+  "overallP1Complete": false,
+  "p6S06Included": false,
+  "p2C03Included": false
+}
