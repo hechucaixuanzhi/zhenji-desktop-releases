@@ -4,9 +4,9 @@
 
 ## 当前版本
 
-- 产品界面与服务：[v0.1.5 Project桌面内测更新](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.1.5)。
+- 产品界面与服务：[v0.1.6 社交通知与隐私桌面内测更新](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.1.6)。
 - 当前桌面壳及安装器仍为 **v0.1.3**：[下载安装包与校验文件](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/desktop-v0.1.3-00367ee991ad)。
-- v0.1.5 沿用既有安装器；已安装用户正常重新打开应用即可加载线上界面，不需要重新安装。
+- v0.1.6 沿用既有安装器；已安装用户正常重新打开应用即可加载线上界面，不需要重新安装。
 
 ## 安装与校验
 
