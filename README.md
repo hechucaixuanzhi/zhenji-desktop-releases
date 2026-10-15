@@ -4,9 +4,9 @@
 
 ## 当前版本
 
-- 产品界面、服务与桌面壳：[v0.1.9 桌面顶部与消息入口](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.1.9)。
+- 产品界面与服务：[v0.1.10 小迹左栏与项目、聊天管理](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.1.10)。桌面壳沿用 0.1.9。
 - [下载 Windows x64 安装器 0.1.9](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.1.9/Zhenji-0.1.9-x64-Setup.exe)。
-- 本版需要正常升级安装器；请先保存并退出旧版。原用户数据保留。
+- 已安装 0.1.9 无需重新安装，先保存当前内容，再重新打开真迹即可。本次未重打或改名安装器。
 
 ## 安装与校验
 
