@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "productReleaseVersion": "0.1.9",
+  "releaseDate": "2026-10-15",
+  "releaseKind": "WINDOWS_DESKTOP_BETA",
+  "tag": "v0.1.9",
+  "deploymentCompleted": true,
+  "projectAutonomousReadEnabled": true,
+  "supportedAutonomousProviders": [
+    "deepseek"
+  ],
+  "manualSourceSelectionRequired": false,
+  "privateMessagesEnabled": true,
+  "appearanceScope": "RETAINED_S02",
+  "installedAffectedAcceptance": "PASS_NEW_INSTALLED_TOPBAR_CONTEXTS_PRIVATE_HISTORY_ACCOUNT_ISOLATION_AND_TWO_NORMAL_CLOSES",
+  "observationSpanMs": 306321,
+  "webSource": "53156922bdd9baaad1b30f8bdbe2fed4f89318b7",
+  "webImage": "sha256:0febd1a50f897429bad22773f94711acc3ac76e8db730d7b5190c1905f28ec8b",
+  "newInstallerBuilt": true,
+  "windowsInstaller": {
+    "version": "0.1.9",
+    "reusedWithoutRenaming": false,
+    "newInstallerBuilt": true,
+    "file": "Zhenji-0.1.9-x64-Setup.exe",
+    "bytes": 103615817,
+    "sha256": "92c44080863c42e724af9928adc1e04c61265e15eb15d7bcfee5d08bf16a3cde",
+    "sourceTag": "v0.1.9",
+    "downloadUrl": "https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.1.9/Zhenji-0.1.9-x64-Setup.exe",
+    "signed": false,
+    "nativeAutoUpdaterEnabled": false
+  },
+  "productSourceCommit": "b345902c0180903f9557c65f76ef7c582be9b01c",
+  "desktopTopbarScope": "FRAMELESS_THEME_WINDOW_CONTROLS_AND_CONTEXTUAL_MESSAGE_ENTRY"
+}
