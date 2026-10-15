@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "productReleaseVersion": "0.1.8",
+  "releaseDate": "2026-10-15",
+  "releaseKind": "WINDOWS_DESKTOP_BETA",
+  "tag": "v0.1.8",
+  "deploymentCompleted": true,
+  "projectAutonomousReadEnabled": true,
+  "supportedAutonomousProviders": [
+    "deepseek"
+  ],
+  "manualSourceSelectionRequired": false,
+  "privateMessagesEnabled": true,
+  "appearanceScope": "INDEPENDENT_MESSAGE_BODY_FONTS_THEMES_ACCENTS_LOCAL_PERSISTENCE",
+  "installedAffectedAcceptance": "PASS_S02_APPEARANCE_READ_ONLY_TWO_NORMAL_NATIVE_CLOSES",
+  "observationSpanMs": 306470,
+  "webSource": "01c8d94f2f70f3792a39998076433bc0d731ac6a",
+  "webImage": "sha256:f45a6cdb5042a8c7dbc37b2b2d366063bb6ba1abdd9fed12881f07bf093e6ecf",
+  "newInstallerBuilt": false,
+  "windowsInstaller": {
+    "version": "0.1.3",
+    "reusedWithoutRenaming": true,
+    "newInstallerBuilt": false,
+    "file": "Zhenji-0.1.3-x64-Setup.exe",
+    "bytes": 103612477,
+    "sha256": "45afae6433cb5892545afefcde340766d90da44f7216c0539cc0f69659ef78c1",
+    "sourceTag": "desktop-v0.1.3-00367ee991ad",
+    "downloadUrl": "https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/desktop-v0.1.3-00367ee991ad/Zhenji-0.1.3-x64-Setup.exe",
+    "signed": false,
+    "nativeAutoUpdaterEnabled": false
+  },
+  "productSourceCommit": "99cc85dd35c949546fd2d1067af28c81c039af70"
+}
