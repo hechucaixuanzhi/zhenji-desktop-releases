@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "productReleaseVersion": "0.1.11",
+  "releaseDate": "2026-10-16",
+  "releaseKind": "WINDOWS_DESKTOP_BETA",
+  "tag": "v0.1.11",
+  "deploymentCompleted": true,
+  "projectAutonomousReadEnabled": true,
+  "supportedAutonomousProviders": [
+    "deepseek"
+  ],
+  "manualSourceSelectionRequired": false,
+  "privateMessagesEnabled": true,
+  "appearanceScope": "RETAINED_S02",
+  "installedAffectedAcceptance": "PASS_REAL_INSTALLED_0_1_9_FINAL_IMAGES_LOCAL_SERVICES_FAKE_PROVIDER_AND_LIMITED_PRODUCTION_S02",
+  "observationSpanMs": 304087,
+  "webSource": "8052f5bcd0d03b6854b75b8688bdd27695f4a626",
+  "webImage": "sha256:24d036250383a96269dcc5e54c718bc6c8e0d9cce9b82e4e5cd88891ecbb82fc",
+  "newInstallerBuilt": false,
+  "windowsInstaller": {
+    "version": "0.1.9",
+    "reusedWithoutRenaming": true,
+    "newInstallerBuilt": false,
+    "file": "Zhenji-0.1.9-x64-Setup.exe",
+    "bytes": 103615817,
+    "sha256": "92c44080863c42e724af9928adc1e04c61265e15eb15d7bcfee5d08bf16a3cde",
+    "sourceTag": "v0.1.9",
+    "downloadUrl": "https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.1.9/Zhenji-0.1.9-x64-Setup.exe",
+    "signed": false,
+    "nativeAutoUpdaterEnabled": false
+  },
+  "productSourceCommit": "62bb51f3d99de96599785695bac80513e41da8ae",
+  "desktopTopbarScope": "FRAMELESS_THEME_WINDOW_CONTROLS_AND_CONTEXTUAL_MESSAGE_ENTRY",
+  "webBuildId": "Ugw-jQWwkaggm-GphEzCw",
+  "apiSource": "8052f5bcd0d03b6854b75b8688bdd27695f4a626",
+  "apiImage": "sha256:124feff062aef064bda0371868d2e795a8af28c5037eda07de2f72439b4018eb",
+  "sidebarScope": "RETAINED_V0_1_10_PINS_ORDER_PROJECT_CHAT_MANAGEMENT_AND_DEVICE_LAYOUT",
+  "modelCallsAdded": 0,
+  "feeAdded": 0,
+  "observationEvidence": {
+    "remoteBusinessStatus": "PASS",
+    "samples": 17,
+    "originalHostCollector": "COMPLETION_UNKNOWN_PRESERVED",
+    "reconciliation": "READ_ONLY_PASS"
+  },
+  "readScope": [
+    "OWN_WORK_DRAFT_CHAPTER_CURRENT_AND_FIXED_HISTORY",
+    "USER_PROVIDED_CONVERSATION_B",
+    "AUTONOMOUS_PROJECT_MATERIAL_AND_CONFIRMED_MEMORY",
+    "CURRENT_CONVERSATION_MATERIAL_AND_INSPIRATION",
+    "CURRENT_PUBLIC_PROJECTION",
+    "TASK_REQUIRED_VISIBLE_COMMENTS",
+    "STATION_METADATA_SEARCH_THEN_AUTHORIZED_READ"
+  ],
+  "genericReadEnabled": false,
+  "paidQaEnabled": false,
+  "database": {
+    "ledgerRows": 110,
+    "active": 107,
+    "rolledBack": 3,
+    "unresolved": 0,
+    "onlyAdded": [
+      {
+        "name": "20261015180000_p1_local_source_dispatch",
+        "sha256": "2c404bd2717aa651018ffeab92277440dd8e15c1b3350dd1eca136e8918e8c76"
+      },
+      {
+        "name": "20261016010000_p1_work_navigation",
+        "sha256": "edc46f56e9c5ba1a6f081bd0b7a3a9a3791a290f7ab042390cb7361f984e5f3e"
+      }
+    ],
+    "historicalSqlUnchanged": true,
+    "backupAndIsolatedRestore": "PASS"
+  },
+  "rollback": {
+    "apiImage": "sha256:da6b3a24c1fe7984f748667f1f4984026aefb97dd38a0314d430beb2492454ec",
+    "webImage": "sha256:09cb74cc884109bbcbcc174039203f099b062af6ce75bf0490b446b820824127",
+    "databaseRollback": false
+  },
+  "limits": [
+    "New-domain real-model compliance was not rerun; all new model requests and fees are zero.",
+    "Production edge-source reads not exercised remain NOT RUN.",
+    "P2 writer, AI Write, external Web Search and v1.0.0 GA are outside this release."
+  ]
+}
