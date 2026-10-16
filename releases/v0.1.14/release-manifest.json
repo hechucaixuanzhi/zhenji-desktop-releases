@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "productReleaseVersion": "0.1.14",
+  "releaseDate": "2026-10-17",
+  "releaseKind": "WINDOWS_DESKTOP_BETA",
+  "tag": "v0.1.14",
+  "deploymentCompleted": true,
+  "scope": ["008-minimum", "009", "010", "011", "012"],
+  "userFacingChangeSummary": "Existing desktop users can edit, save, restore and register multi-chapter drafts; their native 0.1.9 installer is unchanged.",
+  "productSourceCommit": "8927ae7f78f48f1331d82a075a62c2d2d4f3626e",
+  "productBuildSourceCommit": "fbc6bf8daaa86ec7a6d5649841ca1a914d3d9d07",
+  "webBuildSourceCommit": "1f5e2e12",
+  "includedP6PublishedMain": "bff65457058918b612b1f4d71283bc11ff7b67ab",
+  "apiImage": "sha256:6cd020035256f44bbe9471bddb395c60abc0b745994effe6d68a80294a5b23d5",
+  "webImage": "sha256:47f179c2661fada6964a19bcb9f5c153ac77e620c008a3f91bccd0cbe7774cfc",
+  "webBuildId": "y5i1qjwn4qlhdlO7AmE5K",
+  "webRebuiltForThisRelease": true,
+  "newInstallerBuilt": false,
+  "windowsInstaller": {
+    "version": "0.1.9",
+    "reusedWithoutRenaming": true,
+    "file": "Zhenji-0.1.9-x64-Setup.exe",
+    "bytes": 103615817,
+    "sha256": "92c44080863c42e724af9928adc1e04c61265e15d7bcfee5d08bf16a3cde",
+    "sourceTag": "v0.1.9",
+    "downloadUrl": "https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.1.9/Zhenji-0.1.9-x64-Setup.exe",
+    "signed": false,
+    "nativeAutoUpdaterEnabled": false
+  },
+  "installedAffectedAcceptance": "PASS_REAL_INSTALLED_0_1_9_PRODUCTION_SECTIONED_PRIVATE_DRAFT",
+  "observationSpanMs": 302230,
+  "observationSamples": 19,
+  "minimumProductionFreeBytes": 3268526080,
+  "modelCallsAdded": 0,
+  "feeAdded": 0,
+  "database": {
+    "ledgerRows": 116,
+    "migrationsAppliedForThisRelease": 2,
+    "backupAndSameCopyIsolatedRestore": "PASS"
+  },
+  "rollback": {
+    "apiImage": "sha256:6cd020035256f44bbe9471bddb395c60abc0b745994effe6d68a80294a5b23d5",
+    "writer": "OFF",
+    "databaseRollback": false
+  },
+  "sourceReleaseUrl": "https://github.com/hechucaixuanzhi/zhenji/releases/tag/v0.1.14",
+  "desktopReleaseUrl": "https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.1.14"
+}
