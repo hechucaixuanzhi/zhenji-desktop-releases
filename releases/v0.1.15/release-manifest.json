@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "productReleaseVersion": "0.1.15",
+  "releaseDate": "2026-10-18",
+  "releaseKind": "WINDOWS_DESKTOP_BETA",
+  "tag": "v0.1.15",
+  "deploymentCompleted": true,
+  "scope": [
+    "R2-05"
+  ],
+  "packageId": "2026-10-17-P6-MEMORY-RECOVERY-DELTA",
+  "userFacingChangeSummary": "Memory edits remain recoverable when another window removes or dismisses the entry; cancel unlocks scope and navigation, and acknowledged saves are not blindly repeated.",
+  "productSourceCommit": "30c0b28af5d44c83c57ffd288c7cdebb8d2dae11",
+  "productBuildSourceCommit": "4e029ebe084a5dd7837d41bd1e95a8c5cf885021",
+  "includedP2PublishedMain": "a9507fed2d2197c0292da36a1f4aa4bc44a3de4e",
+  "apiSourceCommit": "fbc6bf8daaa86ec7a6d5649841ca1a914d3d9d07",
+  "apiImage": "sha256:6cd020035256f44bbe9471bddb395c60abc0b745994effe6d68a80294a5b23d5",
+  "apiChanged": false,
+  "webImage": "sha256:12666ae2db80a2d003d2a1aa64ed25fd69beb18e889b09207b9753e1b4346612",
+  "webBuildId": "Wll3Txm5T5E927w192-qf",
+  "webRebuiltForThisRelease": true,
+  "newInstallerBuilt": false,
+  "windowsInstaller": {
+    "version": "0.1.9",
+    "reusedWithoutRenaming": true,
+    "file": "Zhenji-0.1.9-x64-Setup.exe",
+    "bytes": 103615817,
+    "sha256": "92c44080863c42e724af9928adc1e04c61265e15eb15d7bcfee5d08bf16a3cde",
+    "sourceTag": "v0.1.9",
+    "downloadUrl": "https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.1.9/Zhenji-0.1.9-x64-Setup.exe",
+    "signed": false,
+    "nativeAutoUpdaterEnabled": false
+  },
+  "installedAffectedAcceptance": "PASS_REAL_INSTALLED_0_1_9_PRODUCTION_MEMORY_READ_ONLY",
+  "localRecoveryAcceptance": "PASS_REAL_C04_API_PG_AND_INSTALLED_DESKTOP",
+  "localOtherWindowMethod": "SEPARATE_AUTHENTICATED_HTTP_CLIENT_USING_NORMAL_UI_SESSION",
+  "productionBusinessWrites": 0,
+  "toolVersion": "2.4.95",
+  "observationSpanMs": 302032,
+  "observationSamples": 19,
+  "modelCallsAdded": 0,
+  "feeAdded": 0,
+  "database": {
+    "ledgerRows": 116,
+    "migrationsAppliedForThisRelease": 0,
+    "existingC04BackupsPreserved": true,
+    "backupRestoreRerunRequired": false
+  },
+  "rollback": {
+    "webImage": "sha256:47f179c2661fada6964a19bcb9f5c153ac77e620c008a3f91bccd0cbe7774cfc",
+    "apiImageUnchanged": "sha256:6cd020035256f44bbe9471bddb395c60abc0b745994effe6d68a80294a5b23d5",
+    "databaseRollback": false
+  },
+  "frozenDesign": "ff118c8",
+  "originalTwoPreviewsRetained": true,
+  "sourceReleaseUrl": "https://github.com/hechucaixuanzhi/zhenji/releases/tag/v0.1.15",
+  "desktopReleaseUrl": "https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.1.15"
+}
