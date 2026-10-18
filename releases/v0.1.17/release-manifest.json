@@ -1,0 +1,16 @@
+{
+  "version": "v0.1.17",
+  "channel": "beta",
+  "desktopShellVersion": "0.1.9",
+  "installerRebuilt": false,
+  "installer": {
+    "name": "Zhenji-0.1.9-x64-Setup.exe",
+    "sha256": "92c44080863c42e724af9928adc1e04c61265e15eb15d7bcfee5d08bf16a3cde",
+    "url": "https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.1.9/Zhenji-0.1.9-x64-Setup.exe"
+  },
+  "productSource": "f5c413165536a3beccbb6b16f8921dbd6657899d",
+  "update": "Save current work, close and reopen Zhenji; no installer update required",
+  "scope": ["15-A", "16-A", "17-R", "19-R"],
+  "serviceChange": "Web only",
+  "databaseMigration": "NONE"
+}
