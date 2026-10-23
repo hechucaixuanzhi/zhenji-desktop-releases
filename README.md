@@ -4,7 +4,7 @@
 
 ## 当前版本
 
-- 产品界面与服务：[v0.1.20 Chat／Work 多正文与来源保护 Release](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.1.20)（[发布材料](releases/v0.1.20/README.md)）。桌面壳沿用 0.1.9。
+- 产品界面与服务：[v0.2.0 正文排版、资料编辑与等待队列 Release](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.2.0)（[发布材料](releases/v0.2.0/README.md)）。桌面壳沿用 0.1.9。
 - [下载 Windows x64 安装器 0.1.9](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.1.9/Zhenji-0.1.9-x64-Setup.exe)。
 - 已安装 0.1.9 无需重新安装，先保存当前内容，再重新打开真迹即可。本次未重打或改名安装器。
 
