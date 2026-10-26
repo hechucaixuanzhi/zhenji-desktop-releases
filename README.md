@@ -4,9 +4,9 @@
 
 ## 当前版本
 
-- 产品界面与服务：[v0.2.5 登录、授权引用与正文读取修复 Release](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.2.5)（[发布材料](releases/v0.2.5/README.md)）。修复已登录进入、认证窗控、`@` 挂载、授权目录与正文供给；Task 新发起和真实联网仍关闭。
-- [下载 Windows x64 安装器 0.1.9](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.1.9/Zhenji-0.1.9-x64-Setup.exe)。
-- 已安装 0.1.9 无需重新安装。先保存当前编辑内容，再刷新页面或正常重开真迹即可；本次仅更新 Web／API，不重建、不上传、不改名安装器。
+- 产品界面与服务：[v0.2.6 评论原文与回复输入修复Release](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.2.6)（[发布材料](releases/v0.2.6/README.md)）。评论和回复保留多行原文；迟到回执保留后写输入及新的回复对象。Task新发起和真实联网继续关闭，材料格式后台接口不代表新界面已开放。
+- [下载Windows x64安装器0.1.9](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.1.9/Zhenji-0.1.9-x64-Setup.exe)。
+- 已安装0.1.9无需重新安装。先保存当前编辑内容，再刷新页面或正常重开真迹；本次仅更新Web/API，不重建、不上传、不改名安装器。
 
 ## 安装与校验
 
