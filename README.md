@@ -4,9 +4,13 @@
 
 ## 当前版本
 
-- 产品界面与服务：[v0.2.6 评论原文与回复输入修复Release](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.2.6)（[发布材料](releases/v0.2.6/README.md)）。评论和回复保留多行原文；迟到回执保留后写输入及新的回复对象。Task新发起和真实联网继续关闭，材料格式后台接口不代表新界面已开放。
-- [下载Windows x64安装器0.1.9](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.1.9/Zhenji-0.1.9-x64-Setup.exe)。
-- 已安装0.1.9无需重新安装。先保存当前编辑内容，再刷新页面或正常重开真迹；本次仅更新Web/API，不重建、不上传、不改名安装器。
+当前 Web 更新：**v0.2.7 Windows Desktop Beta**（non-draft prerelease）。
+
+本轮作品详情与小迹工作区11项交互快修，并落地资料格式UI：作品先读、显式编辑，首行动作和选区浮条，侧栏/归档/消息日期/型号，以及作品互动状态与反馈。具体变化见 [v0.2.7 更新说明](releases/v0.2.7/README.md)。
+
+[GitHub v0.2.7 预发布](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.2.7)。
+
+保留当前输入后刷新或正常重开客户端取得新 Web。继续使用现有 **0.1.9** 安装器，无需重装；本次不上传、更名或创建安装二进制。Task/真实联网继续关闭，物理IME未宣称通过。
 
 ## 安装与校验
 
