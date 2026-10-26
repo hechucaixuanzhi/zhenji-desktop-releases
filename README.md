@@ -4,9 +4,9 @@
 
 ## 当前版本
 
-- 产品界面与服务：[v0.2.4 小迹 AI 授权与改稿保存 Release](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.2.4)（[发布材料](releases/v0.2.4/README.md)）。桌面壳沿用 0.1.9；任务新发起和真实联网仍关闭。
+- 产品界面与服务：[v0.2.5 登录、授权引用与正文读取修复 Release](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.2.5)（[发布材料](releases/v0.2.5/README.md)）。修复已登录进入、认证窗控、`@` 挂载、授权目录与正文供给；Task 新发起和真实联网仍关闭。
 - [下载 Windows x64 安装器 0.1.9](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.1.9/Zhenji-0.1.9-x64-Setup.exe)。
-- 已安装 0.1.9 无需重新安装。先保存当前编辑内容，再刷新页面或重新打开真迹即可；本次不重打、不上传、不改名安装器。
+- 已安装 0.1.9 无需重新安装。先保存当前编辑内容，再刷新页面或正常重开真迹即可；本次仅更新 Web／API，不重建、不上传、不改名安装器。
 
 ## 安装与校验
 
