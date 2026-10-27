@@ -4,13 +4,13 @@
 
 ## 当前版本
 
-当前 Web 更新：**v0.2.7 Windows Desktop Beta**（non-draft prerelease）。
+当前 Web 更新：**v0.2.8 Windows Desktop Beta**（non-draft prerelease）。
 
-本轮作品详情与小迹工作区11项交互快修，并落地资料格式UI：作品先读、显式编辑，首行动作和选区浮条，侧栏/归档/消息日期/型号，以及作品互动状态与反馈。具体变化见 [v0.2.7 更新说明](releases/v0.2.7/README.md)。
+当前会话里的单一既有资料，可以明确授权小迹改写：先查看待确认修改和原文对比，再由你确认保存。保存沿原格式和修订回执，后写输入保留。具体范围见 [v0.2.8 更新说明](releases/v0.2.8/README.md)。
 
-[GitHub v0.2.7 预发布](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.2.7)。
+[GitHub v0.2.8 预发布](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.2.8)。
 
-保留当前输入后刷新或正常重开客户端取得新 Web。继续使用现有 **0.1.9** 安装器，无需重装；本次不上传、更名或创建安装二进制。Task/真实联网继续关闭，物理IME未宣称通过。
+保留当前输入后刷新或正常重开客户端取得新 Web。继续使用原 **0.1.9** 安装器，无需重装；本次不上传、更名或创建安装二进制。Task、Ask与真实联网继续关闭。
 
 ## 安装与校验
 
