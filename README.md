@@ -4,13 +4,11 @@
 
 ## 当前版本
 
-当前 Web 更新：**v0.2.8 Windows Desktop Beta**（non-draft prerelease）。
+当前更新：[v0.2.9 资料授权与安全撤回](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.2.9)。
 
-当前会话里的单一既有资料，可以明确授权小迹改写：先查看待确认修改和原文对比，再由你确认保存。保存沿原格式和修订回执，后写输入保留。具体范围见 [v0.2.8 更新说明](releases/v0.2.8/README.md)。
+在已验范围内，通过资料卡“小迹修改”授权，检查对比后保存；从相应保存回执查看修改前内容并在七天内撤回。后续手动修改受到保护，原文可在 Windows 安装壳中复制后自行保存。
 
-[GitHub v0.2.8 预发布](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.2.8)。
-
-保留当前输入后刷新或正常重开客户端取得新 Web。继续使用原 **0.1.9** 安装器，无需重装；本次不上传、更名或创建安装二进制。Task、Ask与真实联网继续关闭。
+本次为在线 Web 更新，刷新或重开即可。安装器继续使用 [Zhenji 0.1.9 Windows x64](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.1.9/Zhenji-0.1.9-x64-Setup.exe)，未新增或改名安装器。Task、Ask 与真实联网仍关闭。
 
 ## 安装与校验
 
