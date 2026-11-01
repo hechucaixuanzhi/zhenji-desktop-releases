@@ -4,11 +4,11 @@
 
 ## 当前版本
 
-当前更新：[v0.2.9 资料授权与安全撤回](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.2.9)。
+当前更新：[v0.3.0 Task、Ask 与真实联网](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.3.0)。
 
-在已验范围内，通过资料卡“小迹修改”授权，检查对比后保存；从相应保存回执查看修改前内容并在七天内撤回。后续手动修改受到保护，原文可在 Windows 安装壳中复制后自行保存。
+可在小迹发起有界写作任务；遇到问题卡后确认整组回答，原任务接续正文。明确搜索或读取公开链接时，可查看回答实际使用的来源。首版能力以已验 DeepSeek 型号和渠道为准。
 
-本次为在线 Web 更新，刷新或重开即可。安装器继续使用 [Zhenji 0.1.9 Windows x64](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.1.9/Zhenji-0.1.9-x64-Setup.exe)，未新增或改名安装器。Task、Ask 与真实联网仍关闭。
+本次更新在线 Web/API。先保存正在编辑的内容，再刷新或正常重开真迹；无需重装。继续使用 [Zhenji 0.1.9 Windows x64](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.1.9/Zhenji-0.1.9-x64-Setup.exe)，未新增、改名或上传安装器。
 
 ## 安装与校验
 
