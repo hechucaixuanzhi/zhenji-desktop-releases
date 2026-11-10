@@ -1,0 +1,10 @@
+{
+  "version": "v0.9.0",
+  "name": "Zhenji-0.1.10-x64-Setup.exe",
+  "bytes": 103616568,
+  "sha256": "1f599bcb6e9d156184944304cc5018fa9f97e376e6aa1fa497d5e5484d018b79",
+  "source": "e42ce0f727d53a4a6b00d98c0217c451c1a57ac0",
+  "shellVersion": "0.1.10",
+  "authenticode": "NotSigned",
+  "url": "https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.9.0/Zhenji-0.1.10-x64-Setup.exe"
+}
