@@ -4,7 +4,7 @@
 
 ## 当前版本
 
-当前更新 [v0.9.1 真迹预览更新](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.9.1)。已安装 Windows 0.1.10 的用户刷新即可。
+当前更新 [v0.9.2 真迹预览更新](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/tag/v0.9.2)。已安装 Windows 0.1.10 的用户刷新即可。
 
 Windows 壳版本 0.1.10。下载 [Zhenji-0.1.10-x64-Setup.exe](https://github.com/hechucaixuanzhi/zhenji-desktop-releases/releases/download/v0.9.0/Zhenji-0.1.10-x64-Setup.exe)，安装前核对该 Release 的 SHA-256。
 
